@@ -1,0 +1,25 @@
+{
+  "name": "batboy",
+  "version": "0.1.0",
+  "description": "Utilities for simplifying NodeJS development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cg219/batboy.git"
+  },
+  "keywords": [
+    "batman",
+    "batboy",
+    "utility",
+    "nodejs"
+  ],
+  "author": "Clemente Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cg219/batboy/issues"
+  },
+  "homepage": "https://github.com/cg219/batboy#readme"
+}
